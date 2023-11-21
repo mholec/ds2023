@@ -19,7 +19,7 @@ servers:
 paths:
   /courses:
     get:
-      summary: Vrácení seznamu kurzů
+      summary: Získání seznamu kurzů
       tags: []
       responses:
         '200':
