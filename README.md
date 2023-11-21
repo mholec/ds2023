@@ -1,2 +1,2 @@
-# ds2023
+# Datascript školení
 Ukázka REST API Specifikace
