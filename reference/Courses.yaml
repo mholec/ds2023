@@ -102,6 +102,13 @@ paths:
                     date: '2019-08-24T14:15:22Z'
                     price: 0
                     attendees: 100
+                Extra:
+                  value:
+                    id: 4
+                    title: Design REST API
+                    date: '2019-08-24T14:15:22Z'
+                    price: 0
+                    attendees: 100
         '500':
           $ref: '#/components/responses/500-Server-Error'
       operationId: GetCourseById
