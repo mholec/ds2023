@@ -42,6 +42,7 @@ paths:
             default: 10
           in: query
           name: take
+          description: Počet...
         - schema:
             type: integer
             default: 0
